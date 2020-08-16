@@ -1,9 +1,9 @@
 {
-    "name": "kyrne/websocket",
+    "name": "tiuram0n/websocket",
     "description": "Replaces pusher server with an integrated websocket server.",
     "keywords": [
         "extension",
-        "flarum", "kyrne",
+        "flarum",
         "websocket", "pusher", "realtime"
     ],
     "type": "flarum-extension",
@@ -21,8 +21,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/kyrne/flarum-ext-websocket/issues",
-        "source": "https://github.com/kyrne/flarum-ext-websocket"
+        "issues": "https://github.com/tiuram0n/websocket/issues",
+        "source": "https://github.com/tiuram0n/websocket"
     },
     "require": {
         "flarum/core": "^0.1.0-beta.11",
