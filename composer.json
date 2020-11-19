@@ -1,5 +1,5 @@
 {
-    "name": "tiuram0n/websocket",
+    "name": "ram0ng1/websocket",
     "description": "Replaces pusher server with an integrated websocket server.",
     "keywords": [
         "extension",
@@ -21,11 +21,11 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/tiuram0n/websocket/issues",
-        "source": "https://github.com/tiuram0n/websocket"
+        "issues": "https://github.com/ram0ng1/websocket/issues",
+        "source": "https://github.com/ram0ng1/websocket"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.11",
+        "flarum/core": "^0.1.0-beta.14",
         "beyondcode/laravel-websockets": "1.3",
         "fof/components": ">=0.1.0"
     },
